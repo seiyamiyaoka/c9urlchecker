@@ -40,9 +40,3 @@ createLink = (url) => {
   aTag.appendChild(document.createTextNode('replacedurl'));
   baseTag[0].appendChild(aTag)
 }
-
-//   debugger
-//   https://js-sample-dive-into-code.c9users.io
-//   https://ayapanmi-puniii.c9users.io
-//   https://ide.c9.io/puniii/ayapanmi
-//   if (url )
